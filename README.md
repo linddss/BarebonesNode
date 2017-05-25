@@ -10,7 +10,7 @@ Install instructions (linux):
   - place contents of this repo in /opt/someAppName/
   - run npm to get the version of express and pug that I used, you can see them defined as dependencies in package.json
        -this must be run in the same directory that your package.json file is located
-        - npm install
+       - npm install
   - launch the app
        - node server.js
   - you should see "Linstening on port: 3000"
