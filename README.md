@@ -13,7 +13,7 @@ Install instructions (linux):
        - npm install
   - launch the app
        - node server.js
-  - you should see "Linstening on port: 3000"
+  - you should see "Listening on port: 3000"
   - in your browser go to localhost:3000 you should see the app body!
 
 MIT license
